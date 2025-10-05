@@ -3,7 +3,7 @@
 ## Introduction
 
 ```
-A HealthCare website made using React.js as frontend, Express.js as the backend and MongoDb as the database.
+A HealthCare website made using (MERN stack) React.js as frontend, Express.js as the backend and MongoDb as the database.
 ```
 ### Third-Party Libraries Required :
 
