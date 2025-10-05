@@ -1,7 +1,5 @@
 # Healthcare Data Management
 
-# HealthCare
-
 ## Introduction
 
 ```
@@ -46,7 +44,7 @@ For Front-End:
 ```
 ### Clone this repo :
 ```
-git clone https://github.com/
+git clone https://github.com/THETANMAYTIWARI/Healthcare-Data-Management-System.git
 ```
 ### How to install the above Library :
 
