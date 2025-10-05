@@ -3,8 +3,7 @@
 ## Introduction
 
 ```
-A HealthCare website made using React.js as frontend
-Express.js as the backend and MongoDb as the database.
+A HealthCare website made using React.js as frontend, Express.js as the backend and MongoDb as the database.
 ```
 ### Third-Party Libraries Required :
 
@@ -88,7 +87,6 @@ mongodb+srv://yourusername:<password>@cluster0.m9l4p.mongodb.net/myFirstDatabase
 ### Output:
 
 #### Input Image
-- First you have to register to write a blog if you are already registered:-
-- The home page:-
-<p align="center">If you like it please give a 🌟</p>
+- First you have to register to write a blog if you are already registered.
+- The home page.
 
