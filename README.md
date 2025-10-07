@@ -3,12 +3,43 @@
 ## Introduction
 
 ```
-A HealthCare website made using (MERN stack) React.js as frontend, Express.js as the backend and MongoDb as the database.
+The Healthcare Data Management System provides a digital platform to handle hospital workflows — from maintaining patient logs, prescriptions, appointments, and health journals to securely storing and retrieving data using MongoDB Atlas.
 ```
+
+
+### ⚙️ Project Structure: 
+
+<img width="691" height="581" alt="image" src="https://github.com/user-attachments/assets/1f6da0b3-d418-43f7-bea1-744945ef0240" />
+
+
+### ✨ Features
+
+Secure user authentication using Passport.js
+
+Manage doctors, clinics, appointments, and prescriptions
+
+Maintain health logs and symptom journals
+
+Real-time data visualization using FusionCharts
+
+Responsive React UI for a seamless user experience
+
+Centralized MongoDB database with Express.js backend
+
+### ⚙️ Tech Stack
+
+Frontend: React.js, Material-UI, Axios, React Router
+Backend: Node.js, Express.js, MongoDB
+Database: MongoDB Atlas
+Visualization: FusionCharts
+Authentication: Passport.js (Local Strategy)
+
+
+
 ### Third-Party Libraries Required :
 
 ```
-For backend:
+🖥️ Backend Dependencies:
    "chartist": "^0.11.4",
     "connect-mongo": "^4.6.0",
     "dotenv": "^16.0.0",
@@ -22,7 +53,7 @@ For backend:
 ```
 
 ```
-For Front-End:
+💻 Frontend Dependencies:
  "@material-ui/icons": "^1.0.0",
         "axios": "^0.18.0",
         "connect-mongo": "^2.0.1",
