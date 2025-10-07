@@ -1,6 +1,6 @@
 # Healthcare Data Management
 
-## Introduction
+## 📘 Introduction
 
 The Healthcare Data Management System provides a digital platform to handle hospital workflows — from maintaining patient logs, prescriptions, appointments, and health journals to securely storing and retrieving data using MongoDB Atlas.
 
@@ -119,12 +119,12 @@ mongodb+srv://yourusername:<password>@cluster0.m9l4p.mongodb.net/myFirstDatabase
 
 ### 📊 Sample Data Files
 
-The repository includes several .json files (test.appointments, test.clinics, etc.) that represent healthcare-related datasets for initial testing and development.
+``` The repository includes several .json files (test.appointments, test.clinics, etc.) that represent healthcare-related datasets for initial testing and development. ```
 
 
 
 ### 🖼️ Output Previews:
-
+```
 🧍‍♂️ Registration & Login
 
 Users can register and log in securely using Passport.js authentication.
@@ -136,7 +136,7 @@ Displays patient statistics, appointment summaries, and graphical insights using
 💊 Prescription & Health Logs
 
 Doctors and patients can manage and view prescriptions, health logs, and symptoms over time.
-
+```
 
 
 ### 🧠 Features Summary
