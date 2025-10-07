@@ -2,9 +2,7 @@
 
 ## Introduction
 
-```
 The Healthcare Data Management System provides a digital platform to handle hospital workflows — from maintaining patient logs, prescriptions, appointments, and health journals to securely storing and retrieving data using MongoDB Atlas.
-```
 
 
 ### ⚙️ Project Structure: 
@@ -25,6 +23,7 @@ Real-time data visualization using FusionCharts
 Responsive React UI for a seamless user experience
 
 Centralized MongoDB database with Express.js backend
+
 
 ### ⚙️ Tech Stack
 
@@ -106,7 +105,7 @@ git clone https://github.com/THETANMAYTIWARI/Healthcare-Data-Management-System.g
   npm start
   ```
 
-### How to setup the mongodb:
+### 🗄️ Mongodb Setup:
 
 - First create a '.env' file the create a key like 'MONGO_URI=' and paste the below command. Make sure you first create
   an account in [Mongodb atlas](https://www.mongodb.com/cloud/atlas)
@@ -115,9 +114,33 @@ mongodb+srv://yourusername:<password>@cluster0.m9l4p.mongodb.net/myFirstDatabase
 ```
 - Use your username and password and database name here you created in MongoDB atlas
 
-### Output:
 
-#### Input Image
-- First you have to register to write a blog if you are already registered.
-- The home page.
 
+### 📊 Sample Data Files
+The repository includes several .json files (test.appointments, test.clinics, etc.) that represent healthcare-related datasets for initial testing and development.
+
+
+
+
+### Output Previews:
+
+🧍‍♂️ Registration & Login
+
+Users can register and log in securely using Passport.js authentication.
+
+🏠 Dashboard
+
+Displays patient statistics, appointment summaries, and graphical insights using FusionCharts.
+
+💊 Prescription & Health Logs
+
+Doctors and patients can manage and view prescriptions, health logs, and symptoms over time.
+
+### 🧠 Features Summary
+✅ User Authentication (Patient & Doctor)
+✅ Appointment Management
+✅ Health Data Visualization
+✅ Prescription Records
+✅ Interactive UI using React
+✅ MongoDB Atlas Integration
+✅ RESTful API Design
