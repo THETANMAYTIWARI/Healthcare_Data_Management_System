@@ -105,6 +105,7 @@ git clone https://github.com/THETANMAYTIWARI/Healthcare-Data-Management-System.g
   npm start
   ```
 
+
 ### 🗄️ Mongodb Setup:
 
 - First create a '.env' file the create a key like 'MONGO_URI=' and paste the below command. Make sure you first create
@@ -117,12 +118,12 @@ mongodb+srv://yourusername:<password>@cluster0.m9l4p.mongodb.net/myFirstDatabase
 
 
 ### 📊 Sample Data Files
+
 The repository includes several .json files (test.appointments, test.clinics, etc.) that represent healthcare-related datasets for initial testing and development.
 
 
 
-
-### Output Previews:
+### 🖼️ Output Previews:
 
 🧍‍♂️ Registration & Login
 
@@ -136,7 +137,10 @@ Displays patient statistics, appointment summaries, and graphical insights using
 
 Doctors and patients can manage and view prescriptions, health logs, and symptoms over time.
 
+
+
 ### 🧠 Features Summary
+```
 ✅ User Authentication (Patient & Doctor)
 ✅ Appointment Management
 ✅ Health Data Visualization
@@ -144,3 +148,4 @@ Doctors and patients can manage and view prescriptions, health logs, and symptom
 ✅ Interactive UI using React
 ✅ MongoDB Atlas Integration
 ✅ RESTful API Design
+```
