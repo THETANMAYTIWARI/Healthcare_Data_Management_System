@@ -11,7 +11,7 @@ The Healthcare Data Management System provides a digital platform to handle hosp
 
 
 ### ✨ Features
-
+```
 Secure user authentication using Passport.js
 
 Manage doctors, clinics, appointments, and prescriptions
@@ -23,17 +23,16 @@ Real-time data visualization using FusionCharts
 Responsive React UI for a seamless user experience
 
 Centralized MongoDB database with Express.js backend
-
+```
 
 ### ⚙️ Tech Stack
-
+```
 Frontend: React.js, Material-UI, Axios, React Router
 Backend: Node.js, Express.js, MongoDB
 Database: MongoDB Atlas
 Visualization: FusionCharts
 Authentication: Passport.js (Local Strategy)
-
-
+```
 
 ### Third-Party Libraries Required :
 
@@ -136,16 +135,4 @@ Displays patient statistics, appointment summaries, and graphical insights using
 💊 Prescription & Health Logs
 
 Doctors and patients can manage and view prescriptions, health logs, and symptoms over time.
-```
-
-
-### 🧠 Features Summary
-```
-✅ User Authentication (Patient & Doctor)
-✅ Appointment Management
-✅ Health Data Visualization
-✅ Prescription Records
-✅ Interactive UI using React
-✅ MongoDB Atlas Integration
-✅ RESTful API Design
 ```
