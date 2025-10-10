@@ -1,7 +1,8 @@
+// api.js
 import axios from "axios";
-import { API_BASE } from "./config";
+import { API_BASE } from "../config";
 
-// Utility object for all backend resources
+// List of all backend resources
 const endpoints = [
   "appointments",
   "clinics",
@@ -14,8 +15,17 @@ const endpoints = [
 const api = {};
 
 // Dynamically create methods for each endpoint
-endpoints.forEach((res) => {
-  api[res] = () => axios.get(`${API_BASE}/${res}`);
+endpoints.forEach((resource) => {
+  api[resource] = async () => {
+    try {
+      const response = await axios.get(`${API_BASE}/${resource}`);
+      return response.data;
+    } catch (error) {
+      console.error(`Error fetching ${resource}:`, error);
+      throw error;
+    }
+  };
 });
 
 export default api;
+
