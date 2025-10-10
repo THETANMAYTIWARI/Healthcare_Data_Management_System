@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6541077a62ed0d5868e21075"
+  },
+  "symptomType": "Fainted",
+  "symptomDate": "2023-10-17",
+  "symptomTime": "20:00",
+  "symptomInfo": "Fever and head ache",
+  "__v": 0
+}]
