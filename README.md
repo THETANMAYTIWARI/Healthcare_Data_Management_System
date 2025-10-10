@@ -1,9 +1,11 @@
-# Healthcare Data Management (https://healthcare-data-management-system-3.vercel.app/)
+# Healthcare Data Management
 
 ## 📘 Introduction
 
 The Healthcare Data Management System provides a digital platform to handle hospital workflows — from maintaining patient logs, prescriptions, appointments, and health journals to securely storing and retrieving data using MongoDB Atlas.
 
+#### Frontend hosted on Vercel : - https://healthcare-data-management-system-3.vercel.app/
+#### Backend hosted on Render : - https://render.com/docs/web-services#port-binding
 
 ### ⚙️ Project Structure: 
 
