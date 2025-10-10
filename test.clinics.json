@@ -1,0 +1,792 @@
+[{
+  "_id": {
+    "$oid": "654106f362ed0d5868e21054"
+  },
+  "clinicname": "Nurturing Wellness",
+  "address": "NEAR ITI COLLEGE",
+  "city": "Yavatmal",
+  "state": "IA",
+  "zip": 445001,
+  "phone": {
+    "$numberLong": "7350460089"
+  },
+  "userCreated": {
+    "$date": "2023-10-31T13:53:55.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e3"
+  },
+  "clinicname": "Rainbow Medical Group",
+  "address": "Ap #813-8845 Sollicitudin Road",
+  "city": "Kavaratti",
+  "state": "Lakshadweep",
+  "zip": 716311,
+  "phone": {
+    "$numberLong": "7022018314"
+  },
+  "userCreated": {
+    "$date": "2023-09-24T12:14:51.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d2"
+  },
+  "clinicname": "Wellness First Clinic",
+  "address": "Ap #264-7210 Amet Av.",
+  "city": "Ranchi",
+  "state": "Jharkhand",
+  "zip": 574324,
+  "phone": {
+    "$numberLong": "4639699169"
+  },
+  "userCreated": {
+    "$date": "2023-08-09T07:56:16.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f2"
+  },
+  "clinicname": "Harmony Health Clinic",
+  "address": "Ap #603-4027 Integer Road",
+  "city": "Daman",
+  "state": "Daman and Diu",
+  "zip": 336260,
+  "phone": 2082160945,
+  "userCreated": {
+    "$date": "2023-08-03T14:42:21.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d1"
+  },
+  "clinicname": "Wellness First Clinic",
+  "address": "Ap #782-1266 Orci Av.",
+  "city": "Jabalpur",
+  "state": "Madhya Pradesh",
+  "zip": 718112,
+  "phone": {
+    "$numberLong": "2502929859"
+  },
+  "userCreated": {
+    "$date": "2023-08-19T04:37:33.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e8"
+  },
+  "clinicname": "Hopeful Healing Clinic",
+  "address": "329-8695 Nisi Avenue",
+  "city": "Bhir",
+  "state": "Maharastra",
+  "zip": 886578,
+  "phone": {
+    "$numberLong": "7181854970"
+  },
+  "userCreated": {
+    "$date": "2023-08-18T08:39:56.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d5"
+  },
+  "clinicname": "Serenity Wellness Center",
+  "address": "Ap #390-7623 Felis Rd.",
+  "city": "Alandur",
+  "state": "Tamil Nadu",
+  "zip": 263346,
+  "phone": {
+    "$numberLong": "2272028815"
+  },
+  "userCreated": {
+    "$date": "2023-10-06T19:37:05.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f3"
+  },
+  "clinicname": "Evergreen Medical Center",
+  "address": "Ap #227-9645 Amet, Street",
+  "city": "Jhelum",
+  "state": "Punjab",
+  "zip": 536769,
+  "phone": {
+    "$numberLong": "8987483666"
+  },
+  "userCreated": {
+    "$date": "2023-09-15T18:11:51.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768dd"
+  },
+  "clinicname": "Harmony Health Clinic",
+  "address": "1667 Sed Street",
+  "city": "Pathankot",
+  "state": "Punjab",
+  "zip": 523781,
+  "phone": {
+    "$numberLong": "2448951986"
+  },
+  "userCreated": {
+    "$date": "2023-10-13T02:31:39.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768ed"
+  },
+  "clinicname": "Vitality Health Center",
+  "address": "913-5746 Eu St.",
+  "city": "Tonk",
+  "state": "Rajasthan",
+  "zip": 461187,
+  "phone": {
+    "$numberLong": "2194637674"
+  },
+  "userCreated": {
+    "$date": "2023-09-23T07:54:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f5"
+  },
+  "clinicname": "Evergreen Medical Center",
+  "address": "Ap #817-6578 Etiam Av.",
+  "city": "Bihar Sharif",
+  "state": "Bihar",
+  "zip": 165381,
+  "phone": {
+    "$numberLong": "4178450107"
+  },
+  "userCreated": {
+    "$date": "2023-09-22T10:30:43.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768fa"
+  },
+  "clinicname": "Revive Medical Care",
+  "address": "163-7374 Ornare Av.",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "zip": 746303,
+  "phone": {
+    "$numberLong": "5373880007"
+  },
+  "userCreated": {
+    "$date": "2023-09-03T09:18:26.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f7"
+  },
+  "clinicname": "Rainbow Medical Group",
+  "address": "P.O. Box 291, 1502 Non Avenue",
+  "city": "Pondicherry",
+  "state": "Pondicherry",
+  "zip": 110367,
+  "phone": {
+    "$numberLong": "9954816322"
+  },
+  "userCreated": {
+    "$date": "2023-09-28T21:26:28.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768fc"
+  },
+  "clinicname": "Hopeful Healing Clinic",
+  "address": "445-948 Curabitur St.",
+  "city": "Shillong",
+  "state": "Meghalaya",
+  "zip": 338351,
+  "phone": {
+    "$numberLong": "6042695517"
+  },
+  "userCreated": {
+    "$date": "2023-10-28T22:27:50.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768df"
+  },
+  "clinicname": "Healing Hands Clinic",
+  "address": "Ap #767-2236 Hendrerit Road",
+  "city": "Raigarh",
+  "state": "Chhattisgarh",
+  "zip": 562129,
+  "phone": {
+    "$numberLong": "7142754794"
+  },
+  "userCreated": {
+    "$date": "2023-10-13T10:07:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e5"
+  },
+  "clinicname": "Evergreen Medical Center",
+  "address": "P.O. Box 824, 9174 Pellentesque Street",
+  "city": "Panjim",
+  "state": "Goa",
+  "zip": 192704,
+  "phone": {
+    "$numberLong": "3834388024"
+  },
+  "userCreated": {
+    "$date": "2023-08-16T06:28:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e7"
+  },
+  "clinicname": "Harmony Health Clinic",
+  "address": "Ap #112-5353 Eu, Avenue",
+  "city": "Arrah",
+  "state": "Bihar",
+  "zip": 844577,
+  "phone": 1589180357,
+  "userCreated": {
+    "$date": "2023-10-16T02:37:16.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768ef"
+  },
+  "clinicname": "Revive Medical Care",
+  "address": "726-2069 Ullamcorper Ave",
+  "city": "Karnal",
+  "state": "Haryana",
+  "zip": 426844,
+  "phone": {
+    "$numberLong": "3771761498"
+  },
+  "userCreated": {
+    "$date": "2023-10-30T11:51:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d8"
+  },
+  "clinicname": "Revive Medical Care",
+  "address": "7074 Dictum Av.",
+  "city": "Agartala",
+  "state": "Tripura",
+  "zip": 133843,
+  "phone": {
+    "$numberLong": "7681975005"
+  },
+  "userCreated": {
+    "$date": "2023-09-20T15:18:41.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768dc"
+  },
+  "clinicname": "Wellness First Clinic",
+  "address": "691-6315 Volutpat Avenue",
+  "city": "Porbandar",
+  "state": "Gujarat",
+  "zip": 474756,
+  "phone": 1802858527,
+  "userCreated": {
+    "$date": "2023-10-13T18:09:16.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d4"
+  },
+  "clinicname": "Sunshine Clinic",
+  "address": "Ap #605-8587 At St.",
+  "city": "Agartala",
+  "state": "Tripura",
+  "zip": 587685,
+  "phone": {
+    "$numberLong": "3043043754"
+  },
+  "userCreated": {
+    "$date": "2023-08-08T15:12:28.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768ec"
+  },
+  "clinicname": "Hopeful Healing Clinic",
+  "address": "1988 Duis Av.",
+  "city": "Jammu",
+  "state": "Jammu and Kashmir",
+  "zip": 744588,
+  "phone": 1863795743,
+  "userCreated": {
+    "$date": "2023-08-27T10:47:32.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e4"
+  },
+  "clinicname": "Revive Medical Care",
+  "address": "Ap #915-4106 Elit, Avenue",
+  "city": "Imphal",
+  "state": "Manipur",
+  "zip": 316594,
+  "phone": 1529812818,
+  "userCreated": {
+    "$date": "2023-10-29T21:21:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d3"
+  },
+  "clinicname": "Hopeful Healing Clinic",
+  "address": "9696 Dignissim. Rd.",
+  "city": "Burhanpur",
+  "state": "Madhya Pradesh",
+  "zip": 410477,
+  "phone": 1404638688,
+  "userCreated": {
+    "$date": "2023-10-08T01:34:29.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768ea"
+  },
+  "clinicname": "Wellness First Clinic",
+  "address": "P.O. Box 725, 5204 Aliquet. Street",
+  "city": "Jammu",
+  "state": "Jammu and Kashmir",
+  "zip": 414523,
+  "phone": {
+    "$numberLong": "4989550466"
+  },
+  "userCreated": {
+    "$date": "2023-08-13T17:13:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f0"
+  },
+  "clinicname": "Healing Hands Clinic",
+  "address": "9652 Et St.",
+  "city": "Gangtok",
+  "state": "Sikkim",
+  "zip": 385848,
+  "phone": {
+    "$numberLong": "9677994211"
+  },
+  "userCreated": {
+    "$date": "2023-09-09T21:36:22.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f9"
+  },
+  "clinicname": "Hopeful Healing Clinic",
+  "address": "238-8357 Mollis Rd.",
+  "city": "Mango",
+  "state": "Jharkhand",
+  "zip": 432577,
+  "phone": {
+    "$numberLong": "2577115373"
+  },
+  "userCreated": {
+    "$date": "2023-08-21T18:10:15.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f1"
+  },
+  "clinicname": "Vitality Health Center",
+  "address": "P.O. Box 567, 2603 Sem St.",
+  "city": "Berhampore",
+  "state": "West Bengal",
+  "zip": 882400,
+  "phone": {
+    "$numberLong": "4889513466"
+  },
+  "userCreated": {
+    "$date": "2023-08-16T00:57:38.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768fb"
+  },
+  "clinicname": "Wellness First Clinic",
+  "address": "5247 Tempus Street",
+  "city": "Guwahati",
+  "state": "Assam",
+  "zip": 214831,
+  "phone": {
+    "$numberLong": "4312199002"
+  },
+  "userCreated": {
+    "$date": "2023-09-03T07:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768fe"
+  },
+  "clinicname": "Revive Medical Care",
+  "address": "258-7775 Aliquam St.",
+  "city": "Aizwal",
+  "state": "Mizoram",
+  "zip": 264254,
+  "phone": {
+    "$numberLong": "9217418665"
+  },
+  "userCreated": {
+    "$date": "2023-10-11T00:39:42.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e1"
+  },
+  "clinicname": "Evergreen Medical Center",
+  "address": "8142 Fringilla Rd.",
+  "city": "Bharuch",
+  "state": "Gujarat",
+  "zip": 559658,
+  "phone": {
+    "$numberLong": "9013872449"
+  },
+  "userCreated": {
+    "$date": "2023-09-14T15:13:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e9"
+  },
+  "clinicname": "Sunshine Clinic",
+  "address": "P.O. Box 334, 3699 Neque Rd.",
+  "city": "Shimla",
+  "state": "Himachal Pradesh",
+  "zip": 642193,
+  "phone": 1257513850,
+  "userCreated": {
+    "$date": "2023-10-03T10:28:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f8"
+  },
+  "clinicname": "Rainbow Medical Group",
+  "address": "Ap #888-2322 Aliquam Rd.",
+  "city": "Dibrugarh",
+  "state": "Assam",
+  "zip": 876674,
+  "phone": {
+    "$numberLong": "7184891316"
+  },
+  "userCreated": {
+    "$date": "2023-08-19T04:52:15.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac76900"
+  },
+  "clinicname": "Revive Medical Care",
+  "address": "1864 Dis Avenue",
+  "city": "Gangtok",
+  "state": "Sikkim",
+  "zip": 252352,
+  "phone": {
+    "$numberLong": "7828958141"
+  },
+  "userCreated": {
+    "$date": "2023-09-25T03:39:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768ee"
+  },
+  "clinicname": "Evergreen Medical Center",
+  "address": "677-2223 Adipiscing, Av.",
+  "city": "Haridwar",
+  "state": "Uttarakhand",
+  "zip": 558016,
+  "phone": {
+    "$numberLong": "8081117312"
+  },
+  "userCreated": {
+    "$date": "2023-08-31T08:11:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f4"
+  },
+  "clinicname": "Healing Hands Clinic",
+  "address": "P.O. Box 177, 5803 Conubia Ave",
+  "city": "Pondicherry",
+  "state": "Pondicherry",
+  "zip": 644433,
+  "phone": {
+    "$numberLong": "2428159720"
+  },
+  "userCreated": {
+    "$date": "2023-10-15T21:53:58.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768ff"
+  },
+  "clinicname": "Rainbow Medical Group",
+  "address": "Ap #662-2142 Id, Ave",
+  "city": "Hazaribag",
+  "state": "Jharkhand",
+  "zip": 368382,
+  "phone": {
+    "$numberLong": "4699492883"
+  },
+  "userCreated": {
+    "$date": "2023-08-16T02:31:46.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768db"
+  },
+  "clinicname": "Vitality Health Center",
+  "address": "Ap #703-4444 Eleifend Avenue",
+  "city": "Imphal",
+  "state": "Manipur",
+  "zip": 453733,
+  "phone": {
+    "$numberLong": "3226175793"
+  },
+  "userCreated": {
+    "$date": "2023-09-28T12:06:34.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768da"
+  },
+  "clinicname": "Hopeful Healing Clinic",
+  "address": "851-8768 Velit. Ave",
+  "city": "Kohima",
+  "state": "Nagaland",
+  "zip": 402192,
+  "phone": {
+    "$numberLong": "2808535334"
+  },
+  "userCreated": {
+    "$date": "2023-08-03T20:17:29.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768de"
+  },
+  "clinicname": "Healing Hands Clinic",
+  "address": "Ap #924-7478 Et, Ave",
+  "city": "Pak Pattan",
+  "state": "Punjab",
+  "zip": 641854,
+  "phone": {
+    "$numberLong": "5755278725"
+  },
+  "userCreated": {
+    "$date": "2023-10-25T08:11:14.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac76901"
+  },
+  "clinicname": "Sunshine Clinic",
+  "address": "920 Fusce Av.",
+  "city": "Pondicherry",
+  "state": "Pondicherry",
+  "zip": 468174,
+  "phone": {
+    "$numberLong": "9067562521"
+  },
+  "userCreated": {
+    "$date": "2023-09-23T17:27:15.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654112b845a4088f5fd42548"
+  },
+  "address": "736-3353 Nonummy St.",
+  "city": "Gangtok",
+  "state": "Sikkim",
+  "zip": 851619
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768f6"
+  },
+  "clinicname": "Harmony Health Clinic",
+  "address": "6365 Est Avenue",
+  "city": "Lalbahadur Nagar",
+  "state": "Andhra Pradesh",
+  "zip": 753009,
+  "phone": {
+    "$numberLong": "4402129873"
+  },
+  "userCreated": {
+    "$date": "2023-09-10T02:52:06.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e0"
+  },
+  "clinicname": "Sunshine Clinic",
+  "address": "P.O. Box 103, 5532 Posuere Rd.",
+  "city": "Gangtok",
+  "state": "Sikkim",
+  "zip": 373865,
+  "phone": {
+    "$numberLong": "7426385463"
+  },
+  "userCreated": {
+    "$date": "2023-10-08T18:46:09.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768eb"
+  },
+  "clinicname": "Hopeful Healing Clinic",
+  "address": "P.O. Box 993, 9540 Turpis Ave",
+  "city": "Tirunelveli",
+  "state": "Tamil Nadu",
+  "zip": 830692,
+  "phone": {
+    "$numberLong": "5304568406"
+  },
+  "userCreated": {
+    "$date": "2023-10-24T02:46:03.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d6"
+  },
+  "clinicname": "Healing Hands Clinic",
+  "address": "3933 Mollis. Av.",
+  "city": "Aizwal",
+  "state": "Mizoram",
+  "zip": 244964,
+  "phone": 1222727143,
+  "userCreated": {
+    "$date": "2023-08-04T12:29:14.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d9"
+  },
+  "clinicname": "Healing Hands Clinic",
+  "address": "9786 Aliquam St.",
+  "city": "Kavaratti",
+  "state": "Lakshadweep",
+  "zip": 156558,
+  "phone": {
+    "$numberLong": "8389108888"
+  },
+  "userCreated": {
+    "$date": "2023-09-30T01:33:47.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768d7"
+  },
+  "clinicname": "Revive Medical Care",
+  "address": "779-9312 Velit Av.",
+  "city": "Purulia",
+  "state": "Jharkhand",
+  "zip": 669887,
+  "phone": 1438459259,
+  "userCreated": {
+    "$date": "2023-08-30T17:56:38.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e2"
+  },
+  "clinicname": "Vitality Health Center",
+  "address": "202-9864 Arcu Ave",
+  "city": "Gangtok",
+  "state": "Sikkim",
+  "zip": 392844,
+  "phone": {
+    "$numberLong": "8584441189"
+  },
+  "userCreated": {
+    "$date": "2023-10-21T07:35:27.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768fd"
+  },
+  "clinicname": "Vitality Health Center",
+  "address": "Ap #149-7088 Metus. Rd.",
+  "city": "Mirzapur-cum-Vindhyachal",
+  "state": "Uttar Pradesh",
+  "zip": 144301,
+  "phone": {
+    "$numberLong": "3291295123"
+  },
+  "userCreated": {
+    "$date": "2023-10-04T04:55:55.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65410c5cfc13ae0e8ac768e6"
+  },
+  "clinicname": "Rainbow Medical Group",
+  "address": "7865 Mi Rd.",
+  "city": "Tirupati",
+  "state": "Andhra Pradesh",
+  "zip": 998884,
+  "phone": {
+    "$numberLong": "8591204192"
+  },
+  "userCreated": {
+    "$date": "2023-09-09T09:29:57.000Z"
+  }
+}]

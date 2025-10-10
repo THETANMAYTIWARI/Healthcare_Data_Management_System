@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6541074962ed0d5868e2106e"
+  },
+  "date": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "time": "15:30",
+  "doctor": "Sharma",
+  "appointmentName": "Abhineet",
+  "userCreated": {
+    "$date": "2023-10-31T13:55:21.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654156d4c398af4bf9a4fff6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "time": "11:30",
+  "doctor": "Joshi",
+  "appointmentName": "Tanmay",
+  "userCreated": {
+    "$date": "2023-10-31T19:34:44.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65415706c398af4bf9a4fffb"
+  },
+  "date": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "time": "17:05",
+  "doctor": "Puri",
+  "appointmentName": "Rohit",
+  "userCreated": {
+    "$date": "2023-10-31T19:35:34.157Z"
+  },
+  "__v": 0
+}]

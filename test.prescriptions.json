@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "65415980c398af4bf9a50004"
+  },
+  "prescriptionName": "tanmay",
+  "amount": "Paracetemol:2 Tablets a day (one after lunch and one after dinner)",
+  "dateprescribed": "2023-10-10",
+  "doctorprescribed": "Joshi",
+  "generalinstructions": "take a Omez before eating, don't take the paracetemol without taking omez",
+  "__v": 0
+}]

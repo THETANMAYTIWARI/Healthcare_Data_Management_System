@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "654107ea62ed0d5868e21083"
+  },
+  "date": "2023-10-18",
+  "doctor": "Sharma",
+  "visitPurpose": "Fever and headache",
+  "notes": "N/A",
+  "heightIn": 67,
+  "weightLb": 165,
+  "userCreated": {
+    "$date": "2023-10-31T13:58:02.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65415ba7c398af4bf9a5000d"
+  },
+  "date": "2023-10-10",
+  "doctor": "Joshi",
+  "visitPurpose": "Body pains",
+  "notes": "there was a Fracture few days back",
+  "heightIn": 66,
+  "weightLb": 160,
+  "userCreated": {
+    "$date": "2023-10-31T19:55:19.614Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,599 @@
+[{
+  "_id": {
+    "$oid": "6541071562ed0d5868e21059"
+  },
+  "firstname": "Raghav",
+  "lastname": "Sharma",
+  "clinic": "Nurturing Wellness",
+  "phone": "7002565003",
+  "userCreated": {
+    "$date": "2023-10-31T13:54:29.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42527"
+  },
+  "firstname": "August",
+  "lastname": "Lal",
+  "clinic": "Revive Medical Care",
+  "phone": {
+    "$numberLong": "2855355768"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42516"
+  },
+  "firstname": "Adrian",
+  "lastname": "Punj",
+  "clinic": "Hopeful Healing Clinic",
+  "phone": {
+    "$numberLong": "2369569439"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42519"
+  },
+  "firstname": "Solomon",
+  "lastname": "Kumar",
+  "clinic": "Healing Hands Clinic",
+  "phone": {
+    "$numberLong": "4284528150"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4251a"
+  },
+  "firstname": "Susan",
+  "lastname": "Rai",
+  "clinic": "Revive Medical Care",
+  "phone": {
+    "$numberLong": "6363231778"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42518"
+  },
+  "firstname": "Unity",
+  "lastname": "Rastogi",
+  "clinic": "Serenity Wellness Center",
+  "phone": {
+    "$numberLong": "3408866725"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42520"
+  },
+  "firstname": "Uta",
+  "lastname": "Ganesh",
+  "clinic": "Harmony Health Clinic",
+  "phone": {
+    "$numberLong": "6657078860"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42529"
+  },
+  "firstname": "Kylie",
+  "lastname": "Jana",
+  "clinic": "Rainbow Medical Group",
+  "phone": {
+    "$numberLong": "3475197703"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42543"
+  },
+  "firstname": "Fulton",
+  "lastname": "Puri",
+  "clinic": "Revive Medical Care",
+  "phone": {
+    "$numberLong": "8023361263"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42528"
+  },
+  "firstname": "Neil",
+  "lastname": "Roy",
+  "clinic": "Evergreen Medical Center",
+  "phone": {
+    "$numberLong": "8819047460"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4251c"
+  },
+  "firstname": "Jerome",
+  "lastname": "Saini",
+  "clinic": "Healing Hands Clinic",
+  "phone": {
+    "$numberLong": "9842537850"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4251f"
+  },
+  "firstname": "Nolan",
+  "lastname": "Subramani",
+  "clinic": "Wellness First Clinic",
+  "phone": 1484669421,
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42526"
+  },
+  "firstname": "Ebony",
+  "lastname": "Verma",
+  "clinic": "Rainbow Medical Group",
+  "phone": {
+    "$numberLong": "7666807903"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4252f"
+  },
+  "firstname": "Mona",
+  "lastname": "Pal",
+  "clinic": "Hopeful Healing Clinic",
+  "phone": {
+    "$numberLong": "3359915249"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42531"
+  },
+  "firstname": "Channing",
+  "lastname": "Manohar",
+  "clinic": "Evergreen Medical Center",
+  "phone": 1245221616,
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42534"
+  },
+  "firstname": "Cally",
+  "lastname": "Bhat",
+  "clinic": "Vitality Health Center",
+  "phone": {
+    "$numberLong": "5463227991"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4253e"
+  },
+  "firstname": "Autumn",
+  "lastname": "Suri",
+  "clinic": "Wellness First Clinic",
+  "phone": {
+    "$numberLong": "2899826170"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42544"
+  },
+  "firstname": "Ferdinand",
+  "lastname": "Lal",
+  "clinic": "Sunshine Clinic",
+  "phone": {
+    "$numberLong": "7606348387"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42545"
+  },
+  "firstname": "Winifred",
+  "lastname": "Dhawan",
+  "clinic": "Wellness First Clinic",
+  "phone": {
+    "$numberLong": "7617792510"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4251b"
+  },
+  "firstname": "Alea",
+  "lastname": "Chaudhary",
+  "clinic": "Revive Medical Care",
+  "phone": {
+    "$numberLong": "3687650425"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42523"
+  },
+  "firstname": "Luke",
+  "lastname": "Manohar",
+  "clinic": "Sunshine Clinic",
+  "phone": {
+    "$numberLong": "3461493687"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42524"
+  },
+  "firstname": "Howard",
+  "lastname": "Ranga",
+  "clinic": "Evergreen Medical Center",
+  "phone": {
+    "$numberLong": "5029021518"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4252c"
+  },
+  "firstname": "Aphrodite",
+  "lastname": "Manohar",
+  "clinic": "Sunshine Clinic",
+  "phone": {
+    "$numberLong": "8401688880"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42542"
+  },
+  "firstname": "Kaseem",
+  "lastname": "Sara",
+  "clinic": "Rainbow Medical Group",
+  "phone": {
+    "$numberLong": "9811122388"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4252d"
+  },
+  "firstname": "Yvette",
+  "lastname": "Sharma",
+  "clinic": "Wellness First Clinic",
+  "phone": {
+    "$numberLong": "6382275902"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4253d"
+  },
+  "firstname": "Emerson",
+  "lastname": "Rai",
+  "clinic": "Revive Medical Care",
+  "phone": 1796618063,
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42517"
+  },
+  "firstname": "Leo",
+  "lastname": "Neelam",
+  "clinic": "Sunshine Clinic",
+  "phone": 1724092215,
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42515"
+  },
+  "firstname": "Indigo",
+  "lastname": "Joshi",
+  "clinic": "Wellness First Clinic",
+  "phone": {
+    "$numberLong": "3494499692"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4253f"
+  },
+  "firstname": "Daniel",
+  "lastname": "Rastogi",
+  "clinic": "Hopeful Healing Clinic",
+  "phone": {
+    "$numberLong": "5398480877"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4251e"
+  },
+  "firstname": "Ferris",
+  "lastname": "Vijaya",
+  "clinic": "Vitality Health Center",
+  "phone": {
+    "$numberLong": "6311804229"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42536"
+  },
+  "firstname": "Selma",
+  "lastname": "Engineer",
+  "clinic": "Evergreen Medical Center",
+  "phone": {
+    "$numberLong": "8401989763"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42540"
+  },
+  "firstname": "Gemma",
+  "lastname": "Engineer",
+  "clinic": "Vitality Health Center",
+  "phone": {
+    "$numberLong": "3134674844"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42521"
+  },
+  "firstname": "Samantha",
+  "lastname": "Srivas",
+  "clinic": "Healing Hands Clinic",
+  "phone": {
+    "$numberLong": "9679263742"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42514"
+  },
+  "firstname": "Samuel",
+  "lastname": "Subram",
+  "clinic": "Wellness First Clinic",
+  "phone": {
+    "$numberLong": "2377136303"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42539"
+  },
+  "firstname": "Moana",
+  "lastname": "Muthu",
+  "clinic": "Harmony Health Clinic",
+  "phone": {
+    "$numberLong": "5998935154"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4252a"
+  },
+  "firstname": "Hedley",
+  "lastname": "Mittal",
+  "clinic": "Harmony Health Clinic",
+  "phone": {
+    "$numberLong": "8083720036"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42522"
+  },
+  "firstname": "Abbot",
+  "lastname": "Chande",
+  "clinic": "Healing Hands Clinic",
+  "phone": {
+    "$numberLong": "3793417718"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42533"
+  },
+  "firstname": "Abraham",
+  "lastname": "Malhotra",
+  "clinic": "Healing Hands Clinic",
+  "phone": {
+    "$numberLong": "3806040253"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42535"
+  },
+  "firstname": "Maxwell",
+  "lastname": "Joshi",
+  "clinic": "Harmony Health Clinic",
+  "phone": 2018286610,
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4251d"
+  },
+  "firstname": "Justin",
+  "lastname": "Neel",
+  "clinic": "Hopeful Healing Clinic",
+  "phone": {
+    "$numberLong": "5708542685"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4253b"
+  },
+  "firstname": "Kirby",
+  "lastname": "Ranga",
+  "clinic": "Rainbow Medical Group",
+  "phone": {
+    "$numberLong": "9575234106"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42532"
+  },
+  "firstname": "Kyla",
+  "lastname": "Chauhan",
+  "clinic": "Revive Medical Care",
+  "phone": {
+    "$numberLong": "2259701802"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4253a"
+  },
+  "firstname": "Kasper",
+  "lastname": "Meena",
+  "clinic": "Rainbow Medical Group",
+  "phone": {
+    "$numberLong": "9968689154"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4253c"
+  },
+  "firstname": "Patrick",
+  "lastname": "Ranga",
+  "clinic": "Hopeful Healing Clinic",
+  "phone": 1968058577,
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4252b"
+  },
+  "firstname": "Nerea",
+  "lastname": "Pal",
+  "clinic": "Hopeful Healing Clinic",
+  "phone": {
+    "$numberLong": "9374244505"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd4252e"
+  },
+  "firstname": "Jelani",
+  "lastname": "Mahajan",
+  "clinic": "Hopeful Healing Clinic",
+  "phone": {
+    "$numberLong": "6712688623"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42537"
+  },
+  "firstname": "Arden",
+  "lastname": "Swami",
+  "clinic": "Healing Hands Clinic",
+  "phone": {
+    "$numberLong": "3553430279"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42538"
+  },
+  "firstname": "Maggy",
+  "lastname": "Rana",
+  "clinic": "Evergreen Medical Center",
+  "phone": {
+    "$numberLong": "4842270016"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42541"
+  },
+  "firstname": "Josiah",
+  "lastname": "Darsha",
+  "clinic": "Revive Medical Care",
+  "phone": {
+    "$numberLong": "8918363999"
+  },
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42525"
+  },
+  "firstname": "Tobias",
+  "lastname": "Tyagi",
+  "clinic": "Vitality Health Center",
+  "phone": 1158459312,
+  "userCreated": "20231027T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "654112b145a4088f5fd42530"
+  },
+  "firstname": "Kimberley",
+  "lastname": "Goel",
+  "clinic": "Vitality Health Center",
+  "phone": {
+    "$numberLong": "7197256087"
+  },
+  "userCreated": "20231027T00:00:00Z"
+}]
