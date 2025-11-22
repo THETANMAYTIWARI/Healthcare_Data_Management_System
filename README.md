@@ -4,11 +4,20 @@
 
 The Healthcare Data Management System provides a digital platform to handle hospital workflows — from maintaining patient logs, prescriptions, appointments, and health journals to securely storing and retrieving data using MongoDB Atlas.
 
-#### Live Hosting : - (https://healthcare-mocha.vercel.app/)
+## 🚀 Live Hosting
 
-### ⚙️ Project Structure: 
+[![Hosted on Vercel](https://img.shields.io/badge/Hosted_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://healthcare-mocha.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Healthcare_App-1E90FF?style=for-the-badge)](https://healthcare-mocha.vercel.app/)
+[![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)](https://healthcare-mocha.vercel.app/)
 
-<img width="691" height="581" alt="image" src="https://github.com/user-attachments/assets/1f6da0b3-d418-43f7-bea1-744945ef0240" />
+🔗 **Live URL:** https://healthcare-mocha.vercel.app/
+
+---
+
+### 🧪 Sample Login (Demo Credentials)
+
+Username : username
+Password : password
 
 
 ### ✨ Features
