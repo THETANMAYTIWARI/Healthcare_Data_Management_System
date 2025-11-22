@@ -1,13 +1,12 @@
 {
-  "version": 2,
   "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/api/:path*"
+    },
     {
       "source": "/Auth/:path*",
       "destination": "https://healthcare-qka9.onrender.com/Auth/:path*"
-    },
-    {
-      "source": "/api/:path*",
-      "destination": "https://healthcare-qka9.onrender.com/:path*"
     },
     {
       "source": "/(.*)",
