@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "build" }
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/Auth/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/Auth/:path*"
+    },
+    {
+      "source": "/user",
+      "destination": "https://healthcare-qka9.onrender.com/user"
+    },
+    {
+      "source": "/submit",
+      "destination": "https://healthcare-qka9.onrender.com/submit"
+    },
+    {
+      "source": "/populateduser",
+      "destination": "https://healthcare-qka9.onrender.com/populateduser"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
