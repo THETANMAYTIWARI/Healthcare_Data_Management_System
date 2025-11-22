@@ -6,16 +6,28 @@
       "destination": "https://healthcare-qka9.onrender.com/Auth/:path*"
     },
     {
-      "source": "/user",
-      "destination": "https://healthcare-qka9.onrender.com/user"
+      "source": "/appointment/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/appointment/:path*"
     },
     {
-      "source": "/submit",
-      "destination": "https://healthcare-qka9.onrender.com/submit"
+      "source": "/clinic/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/clinic/:path*"
     },
     {
-      "source": "/populateduser",
-      "destination": "https://healthcare-qka9.onrender.com/populateduser"
+      "source": "/doctor/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/doctor/:path*"
+    },
+    {
+      "source": "/healthlog/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/healthlog/:path*"
+    },
+    {
+      "source": "/prescription/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/prescription/:path*"
+    },
+    {
+      "source": "/symptom/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/symptom/:path*"
     },
     {
       "source": "/(.*)",
