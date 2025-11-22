@@ -1,8 +1,8 @@
 // Importing React since we are using React.
 import React from 'react';
 // Importing UI components from material-ui-next.
-import { withStyles } from 'material-ui/styles';
 import Card, { CardContent } from 'material-ui/Card';
+import { withStyles } from 'material-ui/styles';
 import Typography from 'material-ui/Typography';
 const getYr = () => {
   const options = {
@@ -41,7 +41,7 @@ class Footer extends React.Component {
             HealthCare
           </Typography>
           <Typography component="p" className={classes.footerContent}>
-             All Right Reserved by Brute Force
+             All Right Reserved by Tanmay Tiwari
           </Typography>
           <Typography component="p" className={classes.copyright}>
              Copyright &copy; {getYr()}
