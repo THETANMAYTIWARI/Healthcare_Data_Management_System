@@ -120,17 +120,12 @@ mongodb+srv://yourusername:<password>@cluster0.m9l4p.mongodb.net/myFirstDatabase
 - Use your username and password and database name here you created in MongoDB atlas
 
 
-### 🖼️ Output Previews:
-```
-🧍‍♂️ Registration & Login
+### 🔍 Output Previews
 
-Users can register and log in securely using Passport.js authentication.
+| | | |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/1a393bc8-b253-4220-ae01-67c2162e6b6f" width="250"/> | <img src="https://github.com/user-attachments/assets/28f1075f-3fe1-47d6-b41e-7446c482fb1f" width="250"/> | <img src="https://github.com/user-attachments/assets/0ea67a7d-46b3-4698-89ae-3f21c48eaa02" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/1c2efb87-fcd3-4459-a3ed-418bbfa6e3e2" width="250"/> | <img src="https://github.com/user-attachments/assets/08c33f7d-0ff4-441a-9a63-3176f5613ead" width="250"/> | <img src="https://github.com/user-attachments/assets/cc066ec2-11a7-4d04-8d54-e2ad263ff403" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/aa55371a-cb7a-421a-b8d3-b5bdcb60457c" width="250"/> | <img src="https://github.com/user-attachments/assets/522d31c8-8773-43bc-999c-c1a6a8f6ec54" width="250"/> | <img src="https://github.com/user-attachments/assets/c8650337-c93d-421c-8b90-7057cd8f356d" width="250"/> |
 
-🏠 Dashboard
 
-Displays patient statistics, appointment summaries, and graphical insights using FusionCharts.
-
-💊 Prescription & Health Logs
-
-Doctors and patients can manage and view prescriptions, health logs, and symptoms over time.
-```
