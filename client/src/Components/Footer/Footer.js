@@ -41,7 +41,7 @@ class Footer extends React.Component {
             HealthCare
           </Typography>
           <Typography component="p" className={classes.footerContent}>
-             All Right Reserved by Tanmay Tiwari
+             All Rights Reserved by Tanmay Tiwari
           </Typography>
           <Typography component="p" className={classes.copyright}>
              Copyright &copy; {getYr()}
