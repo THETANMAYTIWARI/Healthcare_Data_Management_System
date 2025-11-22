@@ -6,9 +6,9 @@ The Healthcare Data Management System provides a digital platform to handle hosp
 
 ## 🚀 Live Hosting
 
-[![Hosted on Vercel](https://img.shields.io/badge/Hosted_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Healthcare_App-1E90FF?style=for-the-badge)]
-[![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)]
+![Hosted on Vercel](https://img.shields.io/badge/Hosted_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Live Demo](https://img.shields.io/badge/Live_Demo-Healthcare_App-1E90FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)
 
 🔗 **Live URL:** https://healthcare-mocha.vercel.app/
 
