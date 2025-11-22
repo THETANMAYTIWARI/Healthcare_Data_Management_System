@@ -16,8 +16,8 @@ The Healthcare Data Management System provides a digital platform to handle hosp
 
 ### 🧪 Sample Login (Demo Credentials)
 
-Username : username
-Password : password
+* Username : username
+* Password : password
 
 
 ### ✨ Features
