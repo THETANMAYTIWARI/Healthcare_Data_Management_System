@@ -6,28 +6,40 @@
       "destination": "https://healthcare-qka9.onrender.com/Auth/:path*"
     },
     {
-      "source": "/appointment/:path*",
-      "destination": "https://healthcare-qka9.onrender.com/appointment/:path*"
+      "source": "/doctors/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/doctors/:path*"
     },
     {
-      "source": "/clinic/:path*",
-      "destination": "https://healthcare-qka9.onrender.com/clinic/:path*"
+      "source": "/clinics/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/clinics/:path*"
     },
     {
-      "source": "/doctor/:path*",
-      "destination": "https://healthcare-qka9.onrender.com/doctor/:path*"
+      "source": "/appointments/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/appointments/:path*"
     },
     {
-      "source": "/healthlog/:path*",
-      "destination": "https://healthcare-qka9.onrender.com/healthlog/:path*"
+      "source": "/healthlogs/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/healthlogs/:path*"
     },
     {
-      "source": "/prescription/:path*",
-      "destination": "https://healthcare-qka9.onrender.com/prescription/:path*"
+      "source": "/prescriptions/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/prescriptions/:path*"
     },
     {
-      "source": "/symptom/:path*",
-      "destination": "https://healthcare-qka9.onrender.com/symptom/:path*"
+      "source": "/symptomjournals/:path*",
+      "destination": "https://healthcare-qka9.onrender.com/symptomjournals/:path*"
+    },
+    {
+      "source": "/user",
+      "destination": "https://healthcare-qka9.onrender.com/user"
+    },
+    {
+      "source": "/submit",
+      "destination": "https://healthcare-qka9.onrender.com/submit"
+    },
+    {
+      "source": "/populateduser",
+      "destination": "https://healthcare-qka9.onrender.com/populateduser"
     },
     {
       "source": "/(.*)",
