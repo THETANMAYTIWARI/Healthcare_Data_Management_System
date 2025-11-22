@@ -6,9 +6,9 @@ The Healthcare Data Management System provides a digital platform to handle hosp
 
 ## 🚀 Live Hosting
 
-[![Hosted on Vercel](https://img.shields.io/badge/Hosted_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://healthcare-mocha.vercel.app/)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Healthcare_App-1E90FF?style=for-the-badge)](https://healthcare-mocha.vercel.app/)
-[![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)](https://healthcare-mocha.vercel.app/)
+[![Hosted on Vercel](https://img.shields.io/badge/Hosted_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Healthcare_App-1E90FF?style=for-the-badge)]
+[![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)]
 
 🔗 **Live URL:** https://healthcare-mocha.vercel.app/
 
@@ -123,13 +123,6 @@ git clone https://github.com/THETANMAYTIWARI/Healthcare-Data-Management-System.g
 mongodb+srv://yourusername:<password>@cluster0.m9l4p.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 ```
 - Use your username and password and database name here you created in MongoDB atlas
-
-
-
-### 📊 Sample Data Files
-
-``` The repository includes several .json files (test.appointments, test.clinics, etc.) that represent healthcare-related datasets for initial testing and development. ```
-
 
 
 ### 🖼️ Output Previews:
